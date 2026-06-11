@@ -1,3 +1,3 @@
-module go.foxforensics.dev/go-lnk
+module go.foxforensics.eu/go-lnk
 
 go 1.26
